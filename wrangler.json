@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "focusflow-sync",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a219e923-c033-4771-b70e-6713003ea1be",
+			"database_name": "Focusflow-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
